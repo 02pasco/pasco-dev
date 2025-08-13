@@ -1,53 +1,32 @@
-# pasco-dev
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Pavithra</h1>
-<h3 align="center">💻 Java Developer | IoT Enthusiast | Future AI Innovator</h3>
+<h1 align="center">Hi 👋, I'm Pavithra</h1>
+<h3 align="center">Aspiring Software Engineer | Java Developer | B.E. CSE (IoT) 2026</h3>
 
 ---
 
-### 🚀 About Me
-- 🌟 Passionate about building **real-world projects** with Java & IoT
-- 🎯 Preparing for **Government Tech Internships**
-- 📚 Currently learning **Java Advanced**, **AWS Cloud**, and **Cybersecurity**
-- 🛠 Exploring **AI + IoT** integration for my final year project
+## 💫 About Me
+- 🎓 Pursuing **B.E. CSE (IoT&CSBT)** at East Point College of Engineering and Technology
+- 💻 Skilled in **Java, OOP, File Handling**
+- 🚀 Actively building projects for my **GitHub Portfolio**
+- 🎯 Goal: Land a **Govt-based Internship** & grow into a Software Development role
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Languages & Tools
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Concepts-orange?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-Basics-blue?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-Cloud-yellow?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
-### 📂 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Student Result Management System**](https://github.com/o2pasco/StudentResultManagementSystem) | Java + OOP + File Handling + DSA | Java, ArrayList, Comparator |
-| **Complaint Registration System** *(Coming Soon)* | A menu-driven complaint storage app | Java, File Handling |
-| **Digital File Locker** *(Coming Soon)* | Encrypt & store files securely | Java, Encryption API |
+## 📌 Pinned Projects
+- [**Student Result Management System**](https://github.com/02pasco/StudentResultManagementSystem)
+- [**Complaint Registration System**](https://github.com/02pasco/ComplaintRegistrationSystem)
 
 ---
 
-### 📜 Certifications
-- Java Programming – Infosys Springboard *(In Progress)*
-- Introduction to Cybersecurity – Cisco Networking Academy *(In Progress)*
-- AWS Cloud Practitioner Essentials *(In Progress)*
-
----
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavithra%20D-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pavithra-d-45b156281)
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra-d-45b156281)
 [![Email](https://img.shields.io/badge/Email-1ep22ic040%40eastpoint.ac.in-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=1ep22ic040@eastpoint.ac.in)
 
----
 
-### 📊 GitHub Stats
-![Pasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=02pasco&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=02pasco&layout=compact&theme=tokyonight)
 
----
-⭐ *Check out my repositories to see what I’m building!*
