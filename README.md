@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavithra</h1>
-<h3 align="center">Aspiring Software Engineer | Java Developer | B.E. CSE (IoT) 2026</h3>
+<h3 align="center">Aspiring Software Engineer | Java Developer | B.E. CSE (IoT&CSBT) 2026</h3>
 
 ---
 
