@@ -41,7 +41,8 @@
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavithra%20D-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pavithra-d-45b156281)
-[![Email](https://img.shields.io/badge/Email-1ep22ic040.pavithra%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:1ep22ic040.pavithra@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1ep22ic040%40eastpoint.ac.in-red?style=for-the-badge&logo=gmail)](mailto:1ep22ic040@eastpoint.ac.in)
+
 
 ---
 
