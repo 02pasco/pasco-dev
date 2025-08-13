@@ -1,6 +1,6 @@
 # pasco-dev
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Pasco</h1>
+<h1 align="center">👋 Hi, I'm Pavithra</h1>
 <h3 align="center">💻 Java Developer | IoT Enthusiast | Future AI Innovator</h3>
 
 ---
